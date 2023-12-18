@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    text-align: center;
+    background-image: url('https://i.postimg.cc/L5sWzBtF/2021-nissan-gt-r-nismo-mmp-1-1599069103.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.Login{
+    background-color: rgb(118,204,255);
+    position:absolute;
+    top:40%;
+    left:32%;
+    padding:20px;
+    border-radius:20px;
+    width:500px;
+}
+
+.login-header{
+    background-color: rgb(189, 255, 118);
+}
+
+input{
+    height:30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border:1px solid;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.lg-btn{
+    height:40px;
+    width:70px;
+    font-size: 18px;
+    border:0px;
+    border-radius:8px;
+    cursor: pointer;
+    margin:10px;
+    padding:10px;
+}
+.h-link{
+    color:black;
+}
+
+TextField{
+    margin-bottom:10px;
+}

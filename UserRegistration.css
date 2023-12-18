@@ -1,0 +1,47 @@
+.reg{
+    display:flex;
+    text-align: center;
+    justify-content: center;    
+    align-items: center;
+}
+
+.link{
+    padding-bottom:100px;
+}
+
+.box-style{
+    margin-top:20px;
+}
+
+
+
+.btn-create{
+    padding:10px;
+    font-size:15px;
+    color:black;
+    background-color:yellow;
+    border:1;
+    cursor:pointer;
+    border-radius:20px;
+    margin-bottom:20px;    
+}
+
+.lb{
+    margin-right:20px;
+    font-size:22px;
+}
+
+.lb-container{
+    margin:0px 0px 15px 0px ;
+    padding-top:10px;
+}
+
+.opt-gender{
+    padding:10px;
+    border-radius:10px;
+    font-size:20px;
+}
+
+.user-header{
+    text-align: center;
+}

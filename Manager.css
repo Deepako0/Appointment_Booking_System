@@ -1,0 +1,13 @@
+.btn{
+    text-align: center;
+    margin-top:50px;
+    padding-bottom: 100px;
+}
+#header{
+    text-align: center;
+    background-color: none !important;
+}
+
+.bg-container{
+    background-image:radial-gradient(lightblue,yellow,white) ;
+}
